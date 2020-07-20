@@ -12,7 +12,7 @@ def loop_message_n_times(message, number)
   counter = 0
 
   while counter < number do
-    puts "Hello Moon."
+    puts "Hello Red Ballon."
     counter += 1
   end
 end
